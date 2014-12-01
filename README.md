@@ -1,7 +1,7 @@
 -----------------------------------------------------------Data as a Service-----------------------------------------------------------
 - Dependencies:
-	- Hadoop Cluster for HDFS ()
-	- Spark Cluster for Spark SQL processing
+	- Hadoop Cluster for HDFS (link: http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-multi-node-cluster/)
+	- Spark Cluster for Spark SQL processing (link: http://spark.apache.org/docs/latest/spark-standalone.html)
 	- Web2py for appserver
 - Installation:
 	- After Hadoop cluster installation, Deploy FileServer.py on namenode and run as:
